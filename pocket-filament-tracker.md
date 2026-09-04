@@ -17,22 +17,23 @@
   <h2>Privacy Policy</h2>
     Effective Date: September 4, 2026
   <div>
-  Developer: TiredDadBod, under Little Litle Creations
-  Overview
-  Little Litle Creations ("we," "us," or "our") operates the Filament Tracker mobile application. We respect your privacy and are committed to protecting it through this Privacy Policy.
-  Information Collection and Storage
-  Filament Tracker does not collect, transmit, or store any personal data or usage analytics on external servers.
-  Local Storage: All app data, inventory logs, and configuration settings are stored strictly locally on your device.
-  Pro Features & Export Data: If you upgrade to the Pro version, any data exported by the app is saved as a local JSON file directly on your device storage. You are responsible for manually transferring or backing up this file if you migrate to a new device. We do not have access to your exported files.
-  In-App Purchases and Third-Party Services
-  In-app purchases (such as the Pro Upgrade) are processed directly by the Google Play Store using Google Play Billing Services. We do not collect, process, or store your payment details, credit card numbers, or billing addresses. All transaction data is handled securely by Google according to the Google Play Terms of Service and Google Privacy Policy.
-  Children's Privacy
-  Filament Tracker does not knowingly collect any personal information from children under the age of 13. Because all application data remains on the user's local device, no personal information is requested or gathered from any user.
-  Changes to This Privacy Policy
-  We may update our Privacy Policy from time to time. Any changes will be posted on this page with an updated effective date.
-  Contact Us
-  If you have any questions or concerns regarding this Privacy Policy, please contact us at:
-  Email: <a href="mailto:littlelitlecreations@gmail.com">littlelitlecreations@gmail.com</a>
+  <p>Developer: TiredDadBod, under Little Litle Creations</p>
+  <p>Overview</p>
+    
+  <p>Little Litle Creations ("we," "us," or "our") operates the Filament Tracker mobile application. We respect your privacy and are committed to protecting it through this Privacy Policy.</p>
+  <p style="text-weight: bold;">1. Information Collection and Storage</p>
+  <p style="text-indent: 40px;">Filament Tracker does not collect, transmit, or store any personal data or usage analytics on external servers.</p>
+  <p style="text-indent: 40px;">Local Storage: All app data, inventory logs, and configuration settings are stored strictly locally on your device.</p>
+ <p style="text-indent: 40px;"> Pro Features & Export Data: If you upgrade to the Pro version, any data exported by the app is saved as a local JSON file directly on your device storage. You are responsible for manually transferring or backing up this file if you migrate to a new device. We do not have access to your exported files.</p>
+  <p style="text-weight: bold;">2. In-App Purchases and Third-Party Services
+  <p style="text-indent: 40px;">In-app purchases (such as the Pro Upgrade) are processed directly by the Google Play Store using Google Play Billing Services. We do not collect, process, or store your payment details, credit card numbers, or billing addresses. All transaction data is handled securely by Google according to the Google Play Terms of Service and Google Privacy Policy.</p>
+  <p style="text-weight: bold;">3. Children's Privacy</p>
+  <p style="text-indent: 40px;">Filament Tracker does not knowingly collect any personal information from children under the age of 13. Because all application data remains on the user's local device, no personal information is requested or gathered from any user.</p>
+  <p style="text-weight: bold;">4. Changes to This Privacy Policy</p>
+  <p style="text-indent: 40px;">We may update our Privacy Policy from time to time. Any changes will be posted on this page with an updated effective date.</p>
+  <p style="text-weight: bold;">5. Contact Us</p>
+  <p style="text-indent: 40px;">If you have any questions or concerns regarding this Privacy Policy, please contact us at:</p>
+  <p style="text-indent: 40px;">Email: <a href="mailto:littlelitlecreations@gmail.com">littlelitlecreations@gmail.com</a></p>
   </div>
 </div>
 
