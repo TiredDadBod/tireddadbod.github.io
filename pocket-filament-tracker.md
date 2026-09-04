@@ -2,7 +2,7 @@
 
 <div>
   <h2>App Description</h2>
-  <p>This app is intended to help 3D printing hobbyists track their filament spools easily and on-the-go.  It tracks how many filament spools and grams are left on each spool.  It is an efficient way to quickly check if you need to stock up on any filament while out and about!</p>
+  <p style="text-indent: 20px;">This app is intended to help 3D printing hobbyists track their filament spools easily and on-the-go.  It tracks how many filament spools and grams are left on each spool.  It is an efficient way to quickly check if you need to stock up on any filament while out and about!</p>
 </div>
 
 <div>
@@ -15,7 +15,7 @@
 
 <div>
   <h2>Privacy Policy</h2>
-  <p>This app does not collect any external data or personal information.  All information is stored locally on the device.  If upgraded to the Pro version, the exported data is stored in a local JSON file that can be imported to the reinstalled app or on a new device, so long as the information is transferred to the new device. It will not ask for any personal information.</p>
+  <p style="text-indent: 20px;">This app does not collect any external data or personal information.  All information is stored locally on the device.  If upgraded to the Pro version, the exported data is stored in a local JSON file that can be imported to the reinstalled app or on a new device, so long as the information is transferred to the new device. It will not ask for any personal information.</p>
 </div>
 
 <h3><a href="/privacy-policies">Back to Privacy Policies</a></h3>
