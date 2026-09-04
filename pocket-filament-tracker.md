@@ -28,13 +28,13 @@ permalink: /pocket-filament-tracker/
     
   <p>Little Litle Creations ('we,' 'us,' or 'our') operates the Pocket Filament Tracker mobile application. We respect your privacy and are committed to protecting it through this Privacy Policy.</p>
   <p style="font-weight: bold;">1. Information Collection and Storage</p>
-  <p style="text-indent: 40px;">Filament Tracker does not collect, transmit, or store any personal data or usage analytics on external servers.</p>
+  <p style="text-indent: 40px;">Pocket Filament Tracker does not collect, transmit, or store any personal data or usage analytics on external servers.</p>
   <p style="text-indent: 40px;">Local Storage: All app data, inventory logs, and configuration settings are stored strictly locally on your device.</p>
  <p style="text-indent: 40px;"> Pro Features & Export Data: If you upgrade to the Pro version, any data exported by the app is saved as a local JSON file directly on your device storage. You are responsible for manually transferring or backing up this file if you migrate to a new device. We do not have access to your exported files.</p>
   <p style="font-weight: bold;">2. In-App Purchases and Third-Party Services</p>
   <p style="text-indent: 40px;">In-app purchases (such as the Pro Upgrade) are processed directly by the Google Play Store using Google Play Billing Services. We do not collect, process, or store your payment details, credit card numbers, or billing addresses. All transaction data is handled securely by Google according to the Google Play Terms of Service and Google Privacy Policy.</p>
   <p style="font-weight: bold;">3. Children's Privacy</p>
-  <p style="text-indent: 40px;">Filament Tracker does not knowingly collect any personal information from children under the age of 13. Because all application data remains on the user's local device, no personal information is requested or gathered from any user.</p>
+  <p style="text-indent: 40px;">Pocket Filament Tracker does not knowingly collect any personal information from children under the age of 13. Because all application data remains on the user's local device, no personal information is requested or gathered from any user.</p>
   <p style="font-weight: bold;">4. Changes to This Privacy Policy</p>
   <p style="text-indent: 40px;">We may update our Privacy Policy from time to time. Any changes will be posted on this page with an updated effective date.</p>
   <p style="font-weight: bold;">5. Contact Us</p>
