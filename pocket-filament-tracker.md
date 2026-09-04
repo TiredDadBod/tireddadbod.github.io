@@ -1,3 +1,8 @@
+---
+layout: default
+title: Pocket Filament Tracker Privacy Policy
+---
+
 <h1>Pocket Filament Tracker</h1>
 
 <div>
