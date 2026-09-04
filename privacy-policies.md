@@ -1,3 +1,1 @@
-# layout: page
-# title: Privacy Policies
-# URL-PATH: /privacy-policies
+# Privacy Policies
