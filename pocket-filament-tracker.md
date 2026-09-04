@@ -1,3 +1,9 @@
+---
+layout: default
+title: Pocket Filament Tracker Privacy Policy
+permalink: /pocket-filament-tracker/
+---
+
 <h1>Pocket Filament Tracker</h1>
 
 <div>
