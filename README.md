@@ -1,4 +1,5 @@
-<h1>Welcome to my page! Here you can find updates on projects I am working on, check out my GitHub Profile, and review Privacy Policy Information for launched projects.</h1>
+<h1>Welcome to my page!</h1>
+<h2>Here you can find updates on projects I am working on, check out my GitHub Profile, and review Privacy Policy Information for launched projects.</h2>
 
 <h3>If you would like me to build a project for you, feel free to leave me a message explaining your idea.</h3>
 <h3>Here are some key points to think about:</h3>
