@@ -47,7 +47,7 @@
   
   If you have any questions or concerns regarding this Privacy Policy, please contact us at:
   
-  Email: littlelitlecreations@gmail.com
+  Email: <a href="littlelitlecreations@gmail.com">littlelitlecreations@gmail.com</a>
 </div>
 
 <h3><a href="/privacy-policies">Back to Privacy Policies</a></h3>
