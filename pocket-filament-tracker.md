@@ -24,9 +24,9 @@ permalink: /pocket-filament-tracker/
     Effective Date: September 4, 2026
   <div>
   <p>Developer: TiredDadBod, under Little Litle Creations</p>
-  <p>Overview</p>
+  <p style="font-weight: bold;">Overview</p>
     
-  <p>Little Litle Creations ('we,' 'us,' or 'our') operates the Filament Tracker mobile application. We respect your privacy and are committed to protecting it through this Privacy Policy.</p>
+  <p>Little Litle Creations ('we,' 'us,' or 'our') operates the Pocket Filament Tracker mobile application. We respect your privacy and are committed to protecting it through this Privacy Policy.</p>
   <p style="font-weight: bold;">1. Information Collection and Storage</p>
   <p style="text-indent: 40px;">Filament Tracker does not collect, transmit, or store any personal data or usage analytics on external servers.</p>
   <p style="text-indent: 40px;">Local Storage: All app data, inventory logs, and configuration settings are stored strictly locally on your device.</p>
